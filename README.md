@@ -1,2 +1,2 @@
-# social
-social web app
+# Social
+Web application for social media
